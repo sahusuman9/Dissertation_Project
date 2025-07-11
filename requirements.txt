@@ -1,0 +1,7 @@
+sinergym
+stable-baselines3
+numpy
+pandas
+matplotlib
+seaborn
+streamlit
